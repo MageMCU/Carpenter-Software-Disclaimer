@@ -4,7 +4,7 @@
 ## Legal document by ***Carpenter Software*** and ***MageMCU*** account at Github
 1. **Any Information** directly or indirectly created or presented by Jesse Carpenter (AUTHOR) either from Github, Carpenter Software, or elsewhere, including **Instructional Information, Electronic Schematics, and/or Software**, in whatever digital or non-digital format is collectively labeled as (**AIIIESS**).
 
-2. The said **AIIIESS** is provided as is, without any representation or warranty of any kind, either express or implied, including without limitation any representations or endorsements regarding the use of, the results of, or performance, its appropriateness, accuracy, reliability, or correctness.
+2. The said **AIIIESS** is provided as is, without any representation or warranty of any kind, either expressed or implied, including without limitation any representations or endorsements regarding the use of, the results of, or performance, its appropriateness, accuracy, reliability, or correctness.
 
 3. The entire risk as to the use of said **AIIIESS** is assumed by the user who is identified as the (LICENSEE) as in the use of MIT License.
 
