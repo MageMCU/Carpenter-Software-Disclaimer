@@ -22,7 +22,7 @@ Parents and Teachers: This Github Account is restricted to minors. When working 
 ## Minors (Children) and Teenagers
 All children and teenagers, please consult with your parent (your guardian, your mentor or your teacher) before experimenting with any of these electronic circuits. Never work with electricity alone. **Electricity Kills**, see notice.
 
-NOTICE: Keep flammables and non-flammables away from Power Supplies connected to circuit boards. Use a power supply with an enclosed case to protect minors. Best practice is the out-of-reach and the keep-hands-off approach when instructing the young. Horseplay should be discouraged and consequential for dismissal...
+***NOTICE***: Keep flammables and non-flammables away from Power Supplies connected to circuit boards. Use a power supply with an enclosed case to protect minors. Best practice is the out-of-reach and the keep-hands-off approach when instructing the young. Horseplay should be discouraged and consequential for dismissal...
 
 ## MIT License
 Copyright © 2025 Carpenter Software - MageMCU at Github
