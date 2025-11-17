@@ -14,7 +14,7 @@
 
 6. The MageMCU GitHub account is a living workspace used by the AUTHOR for the AUTHOR and if by consequence the said **AIIIESS** is used by a LICENSEE then the LICENSEE is solely responsible.
 
-7. If LICENSEE uses the said **AIIIESS** to teach, to instruct, or to convey at the home, in the classroom, or otherwise, then a copy or its similarity of this DISCLAIMER in its entirety, should be presented for such purposes, especially to all parties who might be involved with minors.
+7. If LICENSEE uses the said **AIIIESS** to teach, to instruct, or to convey at home, in the classroom, or otherwise, then a copy or its similarity of this DISCLAIMER in its entirety, should be presented for such purposes, especially to all parties who might be involved with minors.
 
 ## Parents and Teachers
 Parents and Teachers: This Github Account is restricted to minors. When working with electricity of any kind, they should be directed and instructed by a responsible mentor. A USER and/or (**AIIIESS** MIT LICENSEE) must be at least 13 years of age when using GitHub.
