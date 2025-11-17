@@ -17,7 +17,7 @@
 7. If LICENSEE uses the said **AIIIESS** to teach, to instruct, or to convey at the home, in the classroom, or otherwise, then a copy or its similarity of this DISCLAIMER in its entirety, should be presented for such purposes, especially to all parties who might be involved with minors.
 
 ## Parents and Teachers
-Parents and Teachers: This Github Account is restricted to minors. When working with electricity of any kind, they should be directed and instructed by a responsible mentor. A USER and/or ( AIIIESS MIT LICENSEE) must be at least 13 years of age when using GitHub.
+Parents and Teachers: This Github Account is restricted to minors. When working with electricity of any kind, they should be directed and instructed by a responsible mentor. A USER and/or (**AIIIESS** MIT LICENSEE) must be at least 13 years of age when using GitHub.
 
 ## Minors (Children) and Teenagers
 All children and teenagers, please consult with your parent (your guardian, your mentor or your teacher) before experimenting with any of these electronic circuits. Never work with electricity alone. **Electricity Kills**, see notice.
