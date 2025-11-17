@@ -20,7 +20,7 @@
 Parents and Teachers: This Github Account is restricted to minors. When working with electricity of any kind, they should be directed and instructed by a responsible mentor. A USER and/or ( AIIIESS MIT LICENSEE) must be at least 13 years of age when using GitHub.
 
 ## Minors (Children) and Teenagers
-All children and teenagers, please consult with your parent (your guardian, your mentor or your teacher) before experimenting with any of these electronic circuits. Never work with electricity alone. <span style="font-weight: bold; color: red;">Electricity Kills</span>, see notice.
+All children and teenagers, please consult with your parent (your guardian, your mentor or your teacher) before experimenting with any of these electronic circuits. Never work with electricity alone. Electricity Kills $${\color{red}This text is red.}$$, see notice.
 
 NOTICE: Keep flammables and non-flammables away from Power Supplies connected to circuit boards. Use a power supply with an enclosed case to protect minors. Best practice is the out-of-reach and the keep-hands-off approach when instructing the young. Horseplay should be discouraged and consequential for dismissal...
 
