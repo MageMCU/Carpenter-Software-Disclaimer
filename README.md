@@ -2,7 +2,7 @@
 - Last Updated: November 2, 2025 by Jesse Carpenter
 
 ## Carpenter Software and MageMCU account at Github
-1. **Any Information** directly or indiectly created or presented by Jesse Carpenter (AUTHOR) either from Github, Carpenter Software, or elsewhere, including **Instructional Information, Electronic Schematics, and/or Software**, in whatever digital or non-digital format is collectively labeled as (**AIIIESS**).
+1. **Any Information** directly or indirectly created or presented by Jesse Carpenter (AUTHOR) either from Github, Carpenter Software, or elsewhere, including **Instructional Information, Electronic Schematics, and/or Software**, in whatever digital or non-digital format is collectively labeled as (**AIIIESS**).
 
 2. The said **AIIIESS** is provided as is, without any representation or warranty of any kind, either express or implied, including without limitation any representations or endorsements regarding the use of, the results of, or performance, its appropriateness, accuracy, reliability, or correctness.
 
