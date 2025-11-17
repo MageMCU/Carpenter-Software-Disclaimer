@@ -1,4 +1,4 @@
-## Disclaimer
+# Disclaimer
 - Last Updated: November 2, 2025 by Jesse Carpenter
 
 ## Legal document by ***Carpenter Software*** and ***MageMCU*** account at Github
